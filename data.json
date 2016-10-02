@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "path": "1.jpg",
+      "results": {
+        "amount": "5,280.00",
+        "date": "2015-08-04"
+      },
+      "tags": [
+        "pdf image"
+      ]
+    }
+  ]
+}
